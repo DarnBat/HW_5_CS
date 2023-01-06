@@ -1,0 +1,15 @@
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.csproj.AssemblyReference.cache
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.AssemblyInfoInputs.cache
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.AssemblyInfo.cs
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.csproj.CoreCompileInputs.cache
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\bin\Debug\net6.0\Task_dop.exe
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\bin\Debug\net6.0\Task_dop.deps.json
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\bin\Debug\net6.0\Task_dop.runtimeconfig.json
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\bin\Debug\net6.0\Task_dop.dll
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\bin\Debug\net6.0\Task_dop.pdb
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.dll
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\refint\Task_dop.dll
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.pdb
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\Task_dop.genruntimeconfig.cache
+C:\Users\lidpi\Documents\GB\CSharp\HomeWork5\Task_dop\obj\Debug\net6.0\ref\Task_dop.dll
